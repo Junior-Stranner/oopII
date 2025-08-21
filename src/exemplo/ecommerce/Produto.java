@@ -7,6 +7,7 @@ public class Produto implements Comparable<Produto> {
 
 
     private Integer id;
+    private String nome;
     private String descricao;
     private BigDecimal valor;
 
