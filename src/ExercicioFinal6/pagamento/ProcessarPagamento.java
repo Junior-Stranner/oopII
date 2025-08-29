@@ -1,9 +1,9 @@
 package ExercicioFinal6.pagamento;
 
-public class ProcessadorPagamento<T extends MetodoPagamento> {
+public class ProcessarPagamento<T extends MetodoPagamento> {
     T metodoPagamento;
 
-    public ProcessadorPagamento(T metodoPagamento) {
+    public ProcessarPagamento(T metodoPagamento) {
         this.metodoPagamento = metodoPagamento;
     }
 
