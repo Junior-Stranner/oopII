@@ -1,4 +1,4 @@
-import exemplo.ecommerce.Produto;
+/*import exemplo.ecommerce.Produto;
 import exemplo.imposto.ICMS;
 import exemplo.imposto.IOF;
 import exemplo.imposto.Imposto;
@@ -51,4 +51,4 @@ public class Main {
     public static void calcular(Imposto imposto) {
         imposto.imprimir();
     }
-}
+}*/
